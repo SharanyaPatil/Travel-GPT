@@ -109,9 +109,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-## Acknowledgments 🙏
-
-- **Amadeus API** for providing travel-related data.
-- **Streamlit** for simplifying the web app development.
-- **Ollama** for conversational AI capabilities.
-
